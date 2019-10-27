@@ -16,7 +16,7 @@ npx parcel build index.html --no-cache
 git diff dist
 ```
 
-Compare the file `dist/a.0269a15d.js` before and after and observe:
+Compare the file `dist/a.0269a15d.js` before and after, and observe:
 
 * mobx-react@5 reference: xuHX
 * mobx-react@6 reference: YM9H
